@@ -26,5 +26,5 @@
   
 </div>
 <div align="center";>
-  <img align="center" alt="Heleno-badge" width="60"  src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515575BADGE_2.png">
+  <a href = "https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515575BADGE_2.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station"><img align="center" alt="Heleno-badge" width="150"  src="https://github.com/HelenoSalgado/HelenoSalgado/blob/main/challeng_alura_oracle_250px.png"></a>
 </div>
