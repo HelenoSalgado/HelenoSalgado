@@ -23,5 +23,8 @@
   <a href="https://www.linkedin.com/in/helenosalgado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/HelenoSalgado/HelenoSalgado/blob/output/github-contribution-grid-snake.svg)
- 
+  
+</div>
+<div align="center";>
+  <img align="center" alt="Heleno-badge" width="60"  src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515575BADGE_2.png">
 </div>
