@@ -33,4 +33,5 @@
 </div>
 <div align="center";>
   <a href = "https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515575BADGE_2.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station"><img align="center" alt="Heleno-badge" width="150"  src="https://github.com/HelenoSalgado/HelenoSalgado/blob/main/challeng_alura_oracle_250px.png"></a>
+  <a href = "https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1645569241Insignia_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_3_br&utm_medium=email&utm_source=RD+Station"><img align="center" alt="Heleno-badge" width="150"  src="https://github.com/HelenoSalgado/HelenoSalgado/blob/main/cms_files_10224_1645569241Insignia_3.png"></a>
 </div>
