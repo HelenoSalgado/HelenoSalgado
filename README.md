@@ -1,6 +1,6 @@
 ## Hello World! Welcome. :fist_right:
 
-> _**"The eye sees only that brings with him the power of seeing."**_  <br>
+> _**"Os olhos vêem apenas o que traz consigo o poder de ver."**_  <br>
 > _Cícero_.
 <br>
 <div align="center">
