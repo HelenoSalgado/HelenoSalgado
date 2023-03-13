@@ -3,9 +3,9 @@
 > _**"Os olhos vêem apenas o que traz consigo o poder de ver."**_  <br>
 > _Cícero_.
 <br>
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=HelenoSalgado&show_icons=true&theme=transparent)
-</div>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenoSalgado&show_icons=true&theme=radical)
+
 <br>
 <div style="display: inline_block"><br>
   
