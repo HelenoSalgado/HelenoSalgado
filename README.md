@@ -2,7 +2,7 @@
 
 > _**"Os olhos vêem apenas o que traz consigo o poder de ver."**_  <br>
 > _Cícero_.
----
+> 
 <br>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenoSalgado&show_icons=true&theme=radical)
