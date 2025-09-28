@@ -14,7 +14,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=Vue.js)&nbsp;
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-0D1117?style=for-the-badge&logo=Nuxt.js)&nbsp;
+![Nuxt](https://img.shields.io/badge/-Nuxt-0D1117?style=for-the-badge&logo=Nuxt)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Nest](https://img.shields.io/badge/-Nest.js-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=fff)&nbsp;
