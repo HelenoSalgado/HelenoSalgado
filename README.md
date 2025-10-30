@@ -33,12 +33,6 @@
 <a href="https://discord.gg/4hCPuKkn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/helenosalgado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
- 
-  ![Snake animation](https://github.com/HelenoSalgado/HelenoSalgado/blob/output/github-contribution-grid-snake.svg)
   
-</div>
-<div align="center";>
-  <a href = "https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515575BADGE_2.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station"><img align="center" alt="Heleno-badge" width="150"  src="https://github.com/HelenoSalgado/HelenoSalgado/blob/main/challeng_alura_oracle_250px.png"></a>
-  <a href = "https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1645569241Insignia_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_3_br&utm_medium=email&utm_source=RD+Station"><img align="center" alt="Heleno-badge" width="150"  src="https://github.com/HelenoSalgado/HelenoSalgado/blob/main/cms_files_10224_1645569241Insignia_3.png"></a>
 </div>
 
