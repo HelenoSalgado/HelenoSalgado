@@ -5,7 +5,7 @@
 > 
 <br>
 
- ![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=HelenoSalgado&show_icons=true&theme=radical](https://github-readme-stats-sigma-five.vercel.app/api?username=HelenoSalgado&show_icons=true&theme=radical))
+ ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HelenoSalgado&show_icons=true&theme=radical))
 
 <br>
 <div style="display: inline_block"><br>
