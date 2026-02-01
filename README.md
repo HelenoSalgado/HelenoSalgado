@@ -22,6 +22,7 @@
 ![Docker](https://img.shields.io/badge/-DOCKER-0D1117?style=for-the-badge&logo=docker&logoColor=blue)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=fff)&nbsp;
 ![GTK4](https://img.shields.io/badge/-GTK-0D1117?style=for-the-badge&logo=gtk&logoColor=fff)&nbsp;
+![GTK4](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=fff)&nbsp;
  
 </div>
   
